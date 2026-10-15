@@ -167,13 +167,6 @@ Here are the key areas I focus on when developing intelligent applications:
     </td>
   </tr>
 </table>
-
-### 📊 Most Used Languages
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupthakkar&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" />
-</div>
-
 ---
 
 ### 🤝 Connect & Collaborate
